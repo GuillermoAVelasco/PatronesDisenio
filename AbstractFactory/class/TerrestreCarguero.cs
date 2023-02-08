@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractFactory
 {
-    public class TerrestreCarguero : Terrestre
+    public class TerrestreCarguero : TransporteTerrestre
     {
         public override void mostrar()
         {
