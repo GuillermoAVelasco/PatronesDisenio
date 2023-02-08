@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AbstractFactory
 {
-    public class MaritimoCarguero : Maritimo
+    public class MaritimoCarguero : TransporteMaritimo
     {
         public override void mostrar()
         {

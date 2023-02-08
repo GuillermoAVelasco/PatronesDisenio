@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace AbstractFactory
 {
-    public abstract class Maritimo : ITransporte
+    public abstract class TransporteTerrestre : ITransporte
     {
-        public abstract void mostrar();
+        public abstract void mostrar();        
     }
 }
