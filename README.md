@@ -1,7 +1,8 @@
-# PatronesDisenio
-Patrones de diseño referencia de teoria https://refactoring.guru/
+# PatronesDiseño
 
-Ejemplos propios.
+- Patrones de diseño referencia de teoria sitio: https://refactoring.guru/
+
+- Ejemplos propios no copiados del sitio.
 
 ## Listado de Ejemplos:
 
