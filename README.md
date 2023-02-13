@@ -11,3 +11,7 @@
 * Abstract Factory: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/AbstractFactory
 
 * Builder:          https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/Builder
+
+* Prototype: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/Prototype
+
+![image](https://user-images.githubusercontent.com/85454984/218482550-1413c44f-d110-4d59-a780-a16c0b437bd3.png)
