@@ -4,8 +4,11 @@
     {
         static void Main(string[] args)
         {
-            //Implementando Interfaz clone
             Console.WriteLine("Patron de Diseño: Prototype.");
+            Console.WriteLine("* Se emplea cuando se necesita la copia de un objeto existente para algun tipo de tratamiento.");
+            Console.WriteLine("* Se emplea tambien cuando se tienen configuraciones distintas de un objeto.");
+
+
             Console.WriteLine();
             Auto auto = new Auto("Ford","Mustang");
             auto.agregarAccesorio("Llantas Deportivas");
