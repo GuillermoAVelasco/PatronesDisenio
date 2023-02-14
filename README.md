@@ -6,12 +6,12 @@
 
 ## Listado de Ejemplos:
 
-* Factory Method:   https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/Factory
+* Factory Method:   https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesCreacionales/Factory
 
-* Abstract Factory: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/AbstractFactory
+* Abstract Factory: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesCreacionales/AbstractFactory
 
-* Builder:          https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/Builder
+* Builder:          https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesCreacionales/Builder
 
-* Prototype: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/Prototype
+* Prototype: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesCreacionales/Prototype
 
 ![image](https://user-images.githubusercontent.com/85454984/218482550-1413c44f-d110-4d59-a780-a16c0b437bd3.png)
