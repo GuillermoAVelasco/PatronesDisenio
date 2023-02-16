@@ -14,6 +14,10 @@
 
 * Builder:          https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesCreacionales/Builder
 
-* Prototype: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesCreacionales/Prototype
+* Prototype:        https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesCreacionales/Prototype
 
 ![image](https://user-images.githubusercontent.com/85454984/218482550-1413c44f-d110-4d59-a780-a16c0b437bd3.png)
+
+### Patrones Estructurales:
+
+* Adapter:          https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesEstructurales/Adapter
