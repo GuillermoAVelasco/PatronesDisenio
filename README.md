@@ -21,3 +21,5 @@
 ### Patrones Estructurales:
 
 * Adapter:          https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesEstructurales/Adapter
+
+* Bridge:           https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesEstructurales/Bridge
