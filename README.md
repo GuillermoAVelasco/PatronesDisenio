@@ -26,5 +26,4 @@
 
 * Composite: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesEstructurales/Composite
 
-![image](https://user-images.githubusercontent.com/85454984/220943778-2af31a2b-060e-497a-b346-a6d74dd0dae1.png)
-
+![image](https://user-images.githubusercontent.com/85454984/220944636-87afa21b-07b1-46a9-aa1b-a5a91fc62aa2.png)
