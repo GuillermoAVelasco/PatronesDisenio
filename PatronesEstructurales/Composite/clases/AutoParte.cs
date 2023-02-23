@@ -29,7 +29,7 @@ namespace Composite
 
         public override string ToString()
         {
-            string partes="> Compuesto de:";
+            string partes="> "+this.getNombre()+" Compuesto de:";
 
             _listaComponentes.ForEach(componente =>
             {
