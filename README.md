@@ -27,3 +27,5 @@
 * Composite: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesEstructurales/Composite
 
 ![image](https://user-images.githubusercontent.com/85454984/220944636-87afa21b-07b1-46a9-aa1b-a5a91fc62aa2.png)
+
+* Decorator: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesEstructurales/Decorator
