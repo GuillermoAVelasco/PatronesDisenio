@@ -31,3 +31,5 @@
 * Decorator: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesEstructurales/Decorator
 
 * Facade: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesEstructurales/Facade
+
+* Flyweight: https://github.com/GuillermoAVelasco/PatronesDisenio/tree/master/PatronesEstructurales/Flyweight
